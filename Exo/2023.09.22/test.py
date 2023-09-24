@@ -33,4 +33,4 @@ ax1.set(title="Droite",
         xlabel="axe x",
         ylabel="axe y")
 fig.suptitle(t="Affichage de deux figures");
-fig.show()
+plt.show()
