@@ -1,2 +1,0 @@
-class Voiture:
-    pass
